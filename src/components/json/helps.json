@@ -1,0 +1,82 @@
+{
+    "helps": [
+        {
+            "name": "Warranty Policy",
+            "links": "/pages/warranty-policy",
+            "content": [
+                {
+                    "heading": "WHAT IS ELMIRA WARRANTY POLICY ?",
+                    "content": ["We stand behind the quality of our products with a Limited Lifetime Warranty. The warranty is valid for upto six months from the date of purchase. / Warranty timeline of each category and product may vary and is written on the respective product page under the Warranty tab."]
+                },
+                {
+                    "heading": "WHAT IS COVERED UNDER WARRANTY?",
+                    "content": ["Any and all manufacturing defects in production pertaining to materials or workmanship. Such defects include issues related to bonding, stitching, material or components failure and workmanship. This guarantee applies when the product is used under normal conditions and for the purpose for which the product was designed."]
+                },
+                {
+                    "heading": "WHAT IS NOT COVERED UNDER WARRANTY ?",
+                    "content": ["DailyObjects warranties do not cover misuse, neglect, accidents, abrasion, solvents, cleaning liquids, damage during transport, or any modification to a DailyObjects item. We also cannot be held responsible for loss, damage or cost resulting from the use or loss of our products. Please note that general wear and tear, including but not limited to the breakdown of colors and materials over time, is not considered a material or manufacturing defect and is therefore not covered by our warranties.", "We will not honor fake or fraudulent warranty claims and reserve the right, in our sole discretion, to reject any warranty claims which we suspect to be fraudulent (including intentional damage to products, duplicate claims, and counterfeit products)."]
+                },
+                {
+                    "heading": "HOW TO FILE A WARRANTY CLAIM?",
+                    "content": ["If you think your product has a manufacturing defect, you can submit your warranty claim. To file a warranty claim, raise a ticket for that product from Help Desk and our team will further assist you with the procedures. We will try our best to provide you with a suitable resolution as per the criteria."]
+                }
+            ]
+        },
+    
+        {
+            "name": "Terms of use",
+            "links": "/pages/terms",
+            "content": [
+                {
+                    "heading": "WHAT IS ELMIRA TERMS & POLICY ?",
+                    "content": ["The Terms set out in this Website may be altered / amended from time to time depending on the policies of FWPL and the prevailing market conditions. FWPL requests you to read and understand them as often as possible as it may not be possible for FWPL to intimate you on every change that occurs in these Terms.", "We, through the Website, provide a platform that will enable you to view the contents and products uploaded by various designers (Products) across the world and purchase the same directly from such designers without any interruption or involvement from the side of FWPL. The Website also provides a platform for users to interact with the designers / artists. With the best of intentions, DailyObjects endeavors to push the designs at all avenues that DailyObjects has access to in order to promote the designs including but not limited to other online market places and offline retail channels as the case may be. We request you to note and understand that this Website provides only a Platform for your direct purchase of any Products (designs / pictures of which are uploaded by designers themselves on the Website) from such designers / artists directly and FWPL do not have any role, responsibility or liability in the transaction entered into between you and the designer."]
+                }
+            ]
+        },
+
+        {
+            "name": "Cancellation Policy",
+            "links": "/pages/cancellation-policy",
+            "content": [
+                {
+                    "heading": "WHAT IS ELMIRA CANCELLATION POLICY?",
+                    "content": ["Cancellation before shipment: If the order or the item(s) that you want to cancel have not been shipped yet, you can write to our customer support team at support@dailyobjects.com or call us on +91 8010 667 667 between 9AM and 6PM, Monday to Saturday. In such cases, the order will be cancelled, and the money will be refunded to you within 48-72 business hours after the cancellation request is duly processed by us.", "Cancellation post shipment: Please note that we don’t entertain any cancellation requests for orders that have already been shipped."]
+                },
+                {
+                    "heading": "ARE THERE ANY CANCELLATION CHARGES?",
+                    "content": ["There are zero cancellation charges if the order hasn’t been shipped from our warehouse but if the order has already been shipped we’ll not be able to cancel it.", "If you want to cancel or change your order before shipment, you can reach out to us at support@dailyobjects.com in order to notify. However, actual shipping charges levied by the courier company will be deducted from the amount paid by you."]
+                },
+                {
+                    "heading": "ARE ALL PRODUCTS ELIGIBLE FOR CANCELLATION?",
+                    "content": ["The policies for all products are different. Please check the Shipping & Returns tab on the main product page to check if the products are cancellable/returnable or not. For any other clarifications, the customers can contact our support team at support@dailyobjects.com or call us on +91 8010 667 667 between 9AM and 6PM, Monday to Saturday."]
+                },
+                {
+                    "heading": "HOW CAN I GET REFUND FOR CANCELLED ORDERS AND HOW MUCH TIME DOES THIS PROCESS TAKE?",
+                    "content": ["In case of cancellation before shipment, the refund is processed within 3-4 business days after receiving the cancellation request.", "For transactions done through credit/debit cards or net banking, the refund will be processed to the same account from which the payment was made within 48-72 hours. However, it may take 4-5 additional business days for the amount to reflect in your account."]
+                }
+            ]
+        },
+
+        {
+            "name": "Privacy Policy",
+            "links": "/pages/privacy-and-security-policy",
+            "content": [
+                {
+                    "heading": "WHAT IS PRIVACY & SECURITY POLICY ?",
+                    "content": ["This Privacy Policy is an electronic record in terms of Information Technology Act, 2000 including all its amendments and rules made thereunder as applicable and the amended provisions pertaining to electronic records in various statutes as amended by the Information Technology Act, 2000. This electronic record is generated by a computer system and does not require any physical or digital signatures.", "This privacy policy is a legally binding document between FIRKI WHOLESALE PRIVATE LIMITED, Brand Name “DailyObjects” (hereinafter referred to as 'us', 'we', 'Company' or 'Elmira') and the users (hereinafter referred to You /Your / Yourself). By using this Website including but not limited to Mobile Applications, you indicate that you understand, agree and consent to this privacy policy."]
+                },
+                {
+                    "heading": "COLLECTION OF PERSONAL INFORMATION",
+                    "content": [
+                        "As a visitor to the Site, when you use our Site, we collect and store your personal information from you. Our primary goal in doing so is for the purposes of provisioning our services.", 
+                        "You may use the Website without revealing any personal information about yourself. However to use our Site fully, you will need to register using our online registration form, where you may be required to provide us with your First and Last name, mobile number, email id, user id, password, Age and Gender of the user, Communication Address (official/residence/other), shipping information, product and service selections and other things that identify you. You always have the option to not provide information by choosing not to use a particular service or feature on the Site.", 
+                        "We use data collection devices such as cookies on certain pages of the Site to help analyze our web page flow and measure promotional effectiveness. A cookie is a piece of information that is stored on your computer's hard drive by your web browser which tracks your movements within websites. Our site uses cookies to keep track of how often you visit our site, the contents of your shopping cart, previous purchases and to deliver content specific to your interests. Most browsers are automatically set to accept cookies but usually you can alter the settings of your browser to prevent automatic acceptance. If you choose not to receive cookies, you may still use most of the features of our website, including the ability to purchase items.",
+                        "This information may further include the URL that you just came from (whether this URL is on our site or not), which URL you next go to (whether this URL is on our site or not), your computer browser information, and your IP address.",
+                        "In case of online payment services for the purchase of items, we further collect some additional information, such as a billing address, a credit/ debit card number and a credit/ debit card expiration date and/ or other payment instrument details.",
+                        "If you send us personal correspondence, such as emails or letters, or if other users or third parties send us correspondence about your activities or postings on the Site, we may collect such information into a file specific to you."    
+                    ]
+                }
+            ]
+        }
+    ]
+}

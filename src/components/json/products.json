@@ -1,0 +1,251 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "category_links": "luggages",
+            "product_links": "/products/the-check-in-luggage",
+            
+            "name": "The Check-in Luggage",
+            "category": "Luggages",
+            "sellingprice": "$8999",
+            "price": "9999",
+            "color": "black",
+            "colorname": "Carbon Black",
+            "product_details": {
+                "content": "Thoughtfully designed check-in bag with features that solve real travel problems. Made of premium materials that reveals elegant and purposeful details.",
+                "points": [
+                    "Made of German Makrolon poly-carbonate shell that is flexible & strong.",
+                    "Cram in a week’s worth of clothes with a little help from our inbuilt compression system.",
+                    "Smooth Japanese Hinomoto wheels, that glide across carpets and squeaky floors. Perfect for sneaking ahead in long queues."
+                ]
+            },
+            "specifications": {
+                "color": "Grey Sage",
+                "material": "German Makrolon poly-carbonate",
+                "outer": "German Makrolon poly-carbonate",
+                "inner": "German Makrolon poly-carbonate",
+                "dimensions": "44 x 27 x 68.5 cm ; 4.6Kg",
+                "care": "Do not wash.",
+                "country_of_origin": "Designed and Made In India",
+                "manufacturer": "Imported"
+            },
+            "product_images": [
+                "luggagesbag-product1-image1.webp",
+                "luggagesbag-product1-image2.webp",
+                "luggagesbag-product1-image3.webp",
+                "luggagesbag-product1-image4.webp",
+                "luggagesbag-product1-image5.webp",
+                "luggagesbag-product1-image6.webp"
+            ],
+            "helmet": {
+                "title": "The Check-in Luggage",
+                "description": "Thoughtfully designed check-in bag with features that solve real travel problems. Made of premium materials that reveals elegant and purposeful details.",
+                "cannonical_href": "/products/the-check-in-luggage"
+            }
+        },
+
+        {
+            "id": 2,
+            "category_links": "slings",
+            "product_links": "/products/everywhere-belt-bag-with-long-strap-1l",
+            
+            "name": "Everywhere Sling Bag with Long Strap 1L",
+            "category": "Sling Bags",
+            "sellingprice": "$38",
+            "price": "50",
+            "color": "grey",
+            "colorname": "Grey Sage",
+            "product_details": {
+                "content": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length.",
+                "points": [
+                    "Exterior zippered pocket to secure your valuables",
+                    "Interior pockets hold the essentials",
+                    "Once you find your perfect fit, tuck the excess belt bag strap into the elastic loops"
+                ]
+            },
+            "specifications": {
+                "color": "Grey Sage",
+                "material": "100% Recycled polyester",
+                "outer": "100% Recycled polyester Fabric",
+                "inner": "100% Recycled Polyester Fabric",
+                "dimensions": "19cm x 5.5cm x 13cm (7.5 x 2 x 5)",
+                "care": "Do not wash. Dry clean only.",
+                "country_of_origin": "Designed and Made In India",
+                "manufacturer": "Imported"
+            },
+            "product_images": [
+                "slingbag-product1-image1.webp",
+                "slingbag-product1-image2.webp",
+                "slingbag-product1-image3.webp",
+                "slingbag-product1-image4.webp",
+                "slingbag-product1-image5.webp",
+                "slingbag-product1-image6.webp"
+            ],
+            "helmet": {
+                "title": "Everywhere Sling Bag with Long Strap 1L",
+                "description": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length.",
+                "cannonical_href": "/products/everywhere-belt-bag-with-long-strap-1l"
+            }
+        },
+
+        {
+            "id": 3,
+            "category_links": "backpacks",
+            "product_links": "/products/kelp-lunar-daypack",
+            
+            "name": "Kelp Lunar Daypack",
+            "category": "Backpacks",
+            "sellingprice": "$2499",
+            "price": "4999",
+            "color": "forestgreen",
+            "colorname": "Forest Green",
+            "product_details": {
+                "content": "Deskbound or travel-bound, Lunar is an all-time essential daypack, designed to meet most of your carry requirements with fitting storage solutions in a nice compact backpack. Made from 14 recycled PET bottles, the bag features high-utility, seamless functioning and clean aesthetic that lets you experience synergy with the world around you as you go about your day.",
+                "points": [
+                    "Handcrafted from recycled PET fabric in twill weave pattern to lend a supple quality and increased durability to bags.",
+                    "Main compartment opens wide, to a spacious interior, including a separate laptop section.",
+                    "Cushioned laptop space to fit a laptop of up to 14’’. Please refer to the compatibility section for more details.",
+                    "A wide, quick-access pocket on the outside, secured with zippered closure.",
+                    "The outer pocket features two deep, slip-in pockets and a leather keyring holder.",
+                    "Two expandable water bottle pockets on either side, which can be packed flat when not in use.",
+                    "Carry the backpack effortlessly - with adjustable, cushioned shoulder straps or top webbing handle with leather details.",
+                    "D-ring and webbing loops on shoulder straps to attach carabiners for carrying key rings, airpods, water bottles etc."
+                ]
+            },
+            "specifications": {
+                "color": "Forest Green (Kelp)",
+                "material": "Leather touch points, Metal hardware",
+                "outer": "100% Recycled Polyester exclusive of trims",
+                "inner": "100% Cotton",
+                "dimensions": "40(H) x 32(W) x 14.5(D) cms",
+                "care": "Do not wash. Dry clean only.",
+                "country_of_origin": "Designed and Made In India",
+                "manufacturer": "Imported"
+            },
+            "product_images": [
+                "backpacks-product1-image1.webp",
+                "backpacks-product1-image2.webp",
+                "backpacks-product1-image3.webp",
+                "backpacks-product1-image4.webp",
+                "backpacks-product1-image5.webp",
+                "backpacks-product1-image6.webp",
+                "backpacks-product1-image7.webp",
+                "backpacks-product1-image8.webp",
+                "backpacks-product1-image9.webp",
+                "backpacks-product1-image10.webp",
+                "backpacks-product1-image11.webp"
+            ],
+            "helmet": {
+                "title": "Kelp Lunar Daypack",
+                "description": "Deskbound or travel-bound, Lunar is an all-time essential daypack, designed to meet most of your carry requirements with fitting storage solutions in a nice compact backpack. Made from 14 recycled PET bottles, the bag features high-utility, seamless functioning and clean aesthetic that lets you experience synergy with the world around you as you go about your day.",
+                "cannonical_href": "/products/kelp-lunar-daypack"
+            }
+        },
+
+        {
+            "id": 4,
+            "category_links": "duffle-bags",
+            "product_links": "/products/black-swing-duffle-bag",
+            
+            "name": "Black Swing Duffle Bag",
+            "category": "Duffle Bags",
+            "sellingprice": "$2499",
+            "price": "2999",
+            "color": "black",
+            "colorname": "Carbon Black",
+            "product_details": {
+                "content": "Clean lines, contemporary design elements, and versatile storage options elevate the Swing Duffle Bag a notch above regular offerings. It has a one large compartment along with many pockets for extra storage and cotton newad carrying handles.",
+                "points": [
+                    "Fleet signature Canvas duffle bag.",
+                    "One way single compartment metal zippers.",
+                    "Contrast colour, articulated, cotton newad carrying handles.",
+                    "Wholly cotton inner lining with select prints.",
+                    "Inner Zip and slip Pockets for that extra storage.",
+                    "Classic leather branding, covertly placed for subtlety.",
+                    "NOTE: Inner lining patterns may vary as per availability."
+                ]
+            },
+            "specifications": {
+                "color": "Carbon Black",
+                "material": "Pure Cotton-Canvas, pure cotton inner lining with contrast print, YKK Zipper and cotton newad handles",
+                "outer": "YKK Zipper and cotton newad handles",
+                "inner": "pure cotton inner lining with contrast print",
+                "dimensions": "1 x Swing Duffle Bag",
+                "care": "Cotton Canvas is a fairly easy material to take care of. It can be wiped clean using a damp cloth. Consonantly true are these instructions for the newad material of the straps.",
+                "country_of_origin": "Designed and Made In India",
+                "manufacturer": "Imported"
+            },
+            "product_images": [
+                "dufflebags-product1-image1.webp",
+                "dufflebags-product1-image2.webp",
+                "dufflebags-product1-image3.webp",
+                "dufflebags-product1-image4.webp",
+                "dufflebags-product1-image5.webp"
+            ],
+            "helmet": {
+                "title": "Black Swing Duffle Bag",
+                "description": "Clean lines, contemporary design elements, and versatile storage options elevate the Swing Duffle Bag a notch above regular offerings. It has a one large compartment along with many pockets for extra storage and cotton newad carrying handles.",
+                "cannonical_href": "/products/black-swing-duffle-bag"
+            }
+        },
+
+        {
+            "id": 5,
+            "category_links": "briefcase",
+            "product_links": "/products/navy-trail-weekender-briefcase",
+            
+            "name": "Navy Trail Weekender Briefcase",
+            "category": "Briefcase",
+            "sellingprice": "$3499",
+            "price": "6499",
+            "color": "darkblue",
+            "colorname": "Ivory Navy",
+            "product_details": {
+                "content": "Trail Weekender Bag comes with one spacious compartment and just enough smaller pockets that let you pack with carefree abandon and yet maintain organised access. Handcrafted with pure cotton canvas in dual as well as solid colour combinations, Trail travel bag offers a spacious and uncluttered profile.",
+                "points": [
+                    "Adequately spacious to carry all your weekend travel requisites including apparel, footwear, toiletry, tech kit, eateries and more.",
+                    "The two-way zip opens up a single wide compartment for effortless access to all your gear.",
+                    "On the inside, you’ll find two elasticated slip pockets and one large zippered pocket.",
+                    "The slip pockets are perfect to store cables, chargers or phone.",
+                    "While the large zippered pocket of the main compartment offers a designated space to store your valuables like passport, purse, AirPods and more.",
+                    "The bag also features two concealed deep slip zippered pockets on either side of the bag",
+                    "The front pocket comes with three additional slip pockets for your wallet, extra cables and adapter. It also features a genuine leather loop and key ring for security of your pen and keys.",
+                    "The zippered pocket at the back can store your A5 notebook, magazine and other quick-access essentials.",
+                    "The bag comes with versatile carry options - carry it using the sturdy rolled-edge webbing handles or detachable padded crossbody shoulder strap made with cotton canvas and genuine leather.",
+                    "It can be easily carried on wheeled luggage using the backside slip-on trolley sleeve offering, comfortable hands-free carry.",
+                    "Note: Actual product colour may differ from the images shown."
+                ]
+            },
+            "specifications": {
+                "color": "Ivory Navy",
+                "material": "Cotton Canvas, Genuine Leather and Metal Zippers",
+                "outer": "Cotton Canvas, Genuine Leather and Metal Zippers",
+                "inner": "Cotton Canvas, Genuine Leather and Metal Zippers",
+                "dimensions": "30 (H) x 43 (W) x 17 (D) cm",
+                "care": "Do not wash. Dry clean only.",
+                "country_of_origin": "Designed and Made In India",
+                "manufacturer": "Imported"
+            },
+            "product_images": [
+                "briefcase-product1-image1.webp",
+                "briefcase-product1-image2.webp",
+                "briefcase-product1-image3.webp",
+                "briefcase-product1-image4.webp",
+                "briefcase-product1-image5.webp",
+                "briefcase-product1-image6.webp",
+                "briefcase-product1-image7.webp",
+                "briefcase-product1-image8.webp",
+                "briefcase-product1-image9.webp",
+                "briefcase-product1-image10.webp",
+                "briefcase-product1-image11.webp",
+                "briefcase-product1-image12.webp"
+            ],
+            "helmet": {
+                "title": "Navy Trail Weekender Briefcase",
+                "description": "Trail Weekender Bag comes with one spacious compartment and just enough smaller pockets that let you pack with carefree abandon and yet maintain organised access. Handcrafted with pure cotton canvas in dual as well as solid colour combinations, Trail travel bag offers a spacious and uncluttered profile.",
+                "cannonical_href": "/products/navy-trail-weekender-briefcase"
+            }
+        }
+
+    ]
+}
