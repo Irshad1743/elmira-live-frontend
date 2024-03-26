@@ -250,14 +250,14 @@
         {
             "id": 6,
             "category_links": "slings",
-            "product_links": "/products/everywhere-belt-bag-with-long-strap-1l-mathur",
+            "product_links": "/products/everywhere-belt-bag-with-long-strap-003",
             
-            "name": "Everywhere Sling Bag with Long Strap 1La",
+            "name": "Everywhere Sling Bag with Long Strap 003",
             "category": "Sling Bags",
-            "sellingprice": "$38",
-            "price": "50",
-            "color": "red",
-            "colorname": "Grey Sage",
+            "sellingprice": "₹629",
+            "price": "915",
+            "color": "blue",
+            "colorname": "Blue & Black",
             "product_details": {
                 "content": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length.",
                 "points": [
@@ -267,17 +267,17 @@
                 ]
             },
             "specifications": {
-                "color": "Grey Sage",
+                "color": "Blue & Black",
                 "material": "100% Recycled polyester",
                 "outer": "100% Recycled polyester Fabric",
                 "inner": "100% Recycled Polyester Fabric",
-                "dimensions": "19cm x 5.5cm x 13cm (7.5 x 2 x 5)",
+                "dimensions": "22.86cm x 7.62cm x 16.51cm (9 x 3 x 6.5)",
                 "care": "Do not wash. Dry clean only.",
                 "country_of_origin": "Designed and Made In India",
                 "manufacturer": "Imported"
             },
             "product_images": [
-                "asdfasdfas.webp",
+                "slingbag-product1-image1.webp",
                 "slingbag-product1-image2.webp",
                 "slingbag-product1-image3.webp",
                 "slingbag-product1-image4.webp",
@@ -285,11 +285,183 @@
                 "slingbag-product1-image6.webp"
             ],
             "helmet": {
-                "title": "Everywhere Sling Bag with Long Strap 1L mathur",
+                "title": "Everywhere Sling Bag with Long Strap 003",
                 "description": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length .",
-                "cannonical_href": "/products/everywhere-belt-bag-with-long-strap-1l-mathur"
+                "cannonical_href": "/products/everywhere-belt-bag-with-long-strap-003"
+            }
+        },
+
+        {
+            "id": 7,
+            "category_links": "slings",
+            "product_links": "/products/everywhere-belt-bag-with-long-strap-004",
+            
+            "name": "Everywhere Sling Bag with Long Strap 004",
+            "category": "Sling Bags",
+            "sellingprice": "₹649",
+            "price": "915",
+            "color": "Black",
+            "colorname": "Black & Grey",
+            "product_details": {
+                "content": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length.",
+                "points": [
+                    "Exterior zippered pocket to secure your valuables",
+                    "Interior pockets hold the essentials",
+                    "Once you find your perfect fit, tuck the excess belt bag strap into the elastic loops"
+                ]
+            },
+            "specifications": {
+                "color": "Black & Grey",
+                "material": "100% Recycled polyester",
+                "outer": "100% Recycled polyester Fabric",
+                "inner": "100% Recycled Polyester Fabric",
+                "dimensions": "22.86cm x 7.62cm x 16.51cm (9 x 3 x 6.5)",
+                "care": "Do not wash. Dry clean only.",
+                "country_of_origin": "Designed and Made In India",
+                "manufacturer": "Imported"
+            },
+            "product_images": [
+                "slingbag-product1-image1.webp",
+                "slingbag-product1-image2.webp",
+                "slingbag-product1-image3.webp",
+                "slingbag-product1-image4.webp",
+                "slingbag-product1-image5.webp",
+                "slingbag-product1-image6.webp"
+            ],
+            "helmet": {
+                "title": "Everywhere Sling Bag with Long Strap 004",
+                "description": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length .",
+                "cannonical_href": "/products/everywhere-belt-bag-with-long-strap-004"
+            }
+        },
+        {
+            "id": 8,
+            "category_links": "slings",
+            "product_links": "/products/everywhere-belt-bag-with-long-strap-005",
+            
+            "name": "Everywhere Sling Bag with Long Strap 005",
+            "category": "Sling Bags",
+            "sellingprice": "₹549",
+            "price": "915",
+            "color": "Black",
+            "colorname": "Black & Grey",
+            "product_details": {
+                "content": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length.",
+                "points": [
+                    "Exterior zippered pocket to secure your valuables",
+                    "Interior pockets hold the essentials",
+                    "Once you find your perfect fit, tuck the excess belt bag strap into the elastic loops"
+                ]
+            },
+            "specifications": {
+                "color": "Black & Grey",
+                "material": "100% Recycled polyester",
+                "outer": "100% Recycled polyester Fabric",
+                "inner": "100% Recycled Polyester Fabric",
+                "dimensions": "22.86cm x 7.62cm x 16.51cm (9 x 3 x 6.5)",
+                "care": "Do not wash. Dry clean only.",
+                "country_of_origin": "Designed and Made In India",
+                "manufacturer": "Imported"
+            },
+            "product_images": [
+                "slingbag-product1-image1.webp",
+                "slingbag-product1-image2.webp",
+                "slingbag-product1-image3.webp",
+                "slingbag-product1-image4.webp",
+                "slingbag-product1-image5.webp",
+                "slingbag-product1-image6.webp"
+            ],
+            "helmet": {
+                "title": "Everywhere Sling Bag with Long Strap 005",
+                "description": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length .",
+                "cannonical_href": "/products/everywhere-belt-bag-with-long-strap-005"
+            }
+        },
+        {
+            "id": 9,
+            "category_links": "slings",
+            "product_links": "/products/everywhere-belt-bag-with-long-strap-006a",
+            
+            "name": "Everywhere Sling Bag with Long Strap 006A",
+            "category": "Sling Bags",
+            "sellingprice": "₹549",
+            "price": "915",
+            "color": "Black",
+            "colorname": "Black & Morpinch",
+            "product_details": {
+                "content": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length.",
+                "points": [
+                    "Exterior zippered pocket to secure your valuables",
+                    "Interior pockets hold the essentials",
+                    "Once you find your perfect fit, tuck the excess belt bag strap into the elastic loops"
+                ]
+            },
+            "specifications": {
+                "color": "Black & Morpinch",
+                "material": "100% Recycled polyester",
+                "outer": "100% Recycled polyester Fabric",
+                "inner": "100% Recycled Polyester Fabric",
+                "dimensions": "22.86cm x 7.62cm x 16.51cm (9 x 3 x 6.5)",
+                "care": "Do not wash. Dry clean only.",
+                "country_of_origin": "Designed and Made In India",
+                "manufacturer": "Imported"
+            },
+            "product_images": [
+                "slingbag-product1-image1.webp",
+                "slingbag-product1-image2.webp",
+                "slingbag-product1-image3.webp",
+                "slingbag-product1-image4.webp",
+                "slingbag-product1-image5.webp",
+                "slingbag-product1-image6.webp"
+            ],
+            "helmet": {
+                "title": "Everywhere Sling Bag with Long Strap 006A",
+                "description": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length .",
+                "cannonical_href": "/products/everywhere-belt-bag-with-long-strap-006a"
+            }
+        },
+        {
+            "id": 10,
+            "category_links": "slings",
+            "product_links": "/products/everywhere-belt-bag-with-long-strap-006b",
+            
+            "name": "Everywhere Sling Bag with Long Strap 006B",
+            "category": "Sling Bags",
+            "sellingprice": "₹549",
+            "price": "915",
+            "color": "Maroon",
+            "colorname": "Blue & Maroon",
+            "product_details": {
+                "content": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length.",
+                "points": [
+                    "Exterior zippered pocket to secure your valuables",
+                    "Interior pockets hold the essentials",
+                    "Once you find your perfect fit, tuck the excess belt bag strap into the elastic loops"
+                ]
+            },
+            "specifications": {
+                "color": "Blue & Maroon",
+                "material": "100% Recycled polyester",
+                "outer": "100% Recycled polyester Fabric",
+                "inner": "100% Recycled Polyester Fabric",
+                "dimensions": "22.86cm x 7.62cm x 16.51cm (9 x 3 x 6.5)",
+                "care": "Do not wash. Dry clean only.",
+                "country_of_origin": "Designed and Made In India",
+                "manufacturer": "Imported"
+            },
+            "product_images": [
+                "slingbag-product1-image1.webp",
+                "slingbag-product1-image2.webp",
+                "slingbag-product1-image3.webp",
+                "slingbag-product1-image4.webp",
+                "slingbag-product1-image5.webp",
+                "slingbag-product1-image6.webp"
+            ],
+            "helmet": {
+                "title": "Everywhere Sling Bag with Long Strap 006B",
+                "description": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length .",
+                "cannonical_href": "/products/everywhere-belt-bag-with-long-strap-006b"
             }
         }
-        
     ]
 }
