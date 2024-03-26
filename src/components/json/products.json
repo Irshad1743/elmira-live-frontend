@@ -289,50 +289,6 @@
                 "description": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length .",
                 "cannonical_href": "/products/everywhere-belt-bag-with-long-strap-1l-mathur"
             }
-        },
-        
-        {
-            "id": 7,
-            "category_links": "slings",
-            "product_links": "/products/everywhere-belt-bag-with-long-strap-1l-sdf",
-            
-            "name": "Everywhere Sling Bag with Long Strap 1Laasdfasd",
-            "category": "Sling Bags",
-            "sellingprice": "$38",
-            "price": "50",
-            "color": "red",
-            "colorname": "Grey Sage",
-            "product_details": {
-                "content": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length.",
-                "points": [
-                    "Exterior zippered pocket to secure your valuables",
-                    "Interior pockets hold the essentials",
-                    "Once you find your perfect fit, tuck the excess belt bag strap into the elastic loops"
-                ]
-            },
-            "specifications": {
-                "color": "Grey Sage",
-                "material": "100% Recycled polyester",
-                "outer": "100% Recycled polyester Fabric",
-                "inner": "100% Recycled Polyester Fabric",
-                "dimensions": "19cm x 5.5cm x 13cm (7.5 x 2 x 5)",
-                "care": "Do not wash. Dry clean only.",
-                "country_of_origin": "Designed and Made In India",
-                "manufacturer": "Imported"
-            },
-            "product_images": [
-                "slingbag-product1-image1.webp",
-                "slingbag-product1-image2.webp",
-                "slingbag-product1-image3.webp",
-                "slingbag-product1-image4.webp",
-                "slingbag-product1-image5.webp",
-                "slingbag-product1-image6.webp"
-            ],
-            "helmet": {
-                "title": "Everyasdfwhere Sling Bag with Long Strap 1L mathur",
-                "description": "Phoasdfne, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length .",
-                "cannonical_href": "/products/everywhere-belt-bag-with-long-strap-1l-sdf"
-            }
         }
         
     ]
