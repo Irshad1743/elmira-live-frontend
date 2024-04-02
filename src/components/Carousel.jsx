@@ -72,7 +72,7 @@ const Carousel = () => {
             {categoriesData.categories.map((category, index) =>
                 <Link to={category.link} key={index}> 
                 <div className="text-center mx-3">
-                <img src={`/images/${category.image}`} alt={category.name} className="h-24 w-24 m-auto object-cover rounded-full mb-2" />
+                <img src={`./images/${category.image}`} alt={category.name} className="h-24 w-24 m-auto object-cover rounded-full mb-2" />
                 <span className="text-black text-sm">{category.name}</span>
                 </div>    
                 </Link>
