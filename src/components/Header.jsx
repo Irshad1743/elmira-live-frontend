@@ -1,8 +1,8 @@
 import React, { useState } from 'react'
 import logo from "./images/logo.png";
 import { Link } from "react-router-dom";
-import { LuUser } from "react-icons/lu";
-import { PiHandbag } from "react-icons/pi";
+// import { LuUser } from "react-icons/lu";
+// import { PiHandbag } from "react-icons/pi";
 import { AiOutlineAlignLeft } from "react-icons/ai";
 import categoriesData from './json/category.json';
 
@@ -72,7 +72,9 @@ const Header = () => {
 
 
         {/* carousel */}
-        <div className="pt-20"></div>
+        <div className="pt-20">
+
+        </div>
         
 
 

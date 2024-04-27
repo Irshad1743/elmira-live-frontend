@@ -4,6 +4,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick.css"; 
 import "slick-carousel/slick/slick-theme.css";
 import { Link } from "react-router-dom";
+// import ww from "./images/003.webp";
 
 const Carousel = () => {
   
@@ -70,12 +71,16 @@ const Carousel = () => {
         <div className="py-5 overflow-hidden lg:px-28">
             <Slider {...settings}>  
             {categoriesData.categories.map((category, index) =>
-                <Link to={category.link} key={index}> 
-                <div className="text-center mx-3">
-                <img src={`./images/${category.image}`} alt={category.name} className="h-24 w-24 m-auto object-cover rounded-full mb-2" />
-                <span className="text-black text-sm">{category.name}</span>
-                </div>    
-                </Link>
+                {
+                    return (
+                        <Link to={category.link} key={index}>
+                            <div className="text-center mx-3">
+                            <img src={`./images/${category.image}`} alt={category.name} className="h-24 w-24 m-auto object-contain rounded-full mb-2" />
+                            <span className="text-black text-sm">{category.name}</span>
+                            </div>    
+                        </Link>
+                    )
+                }
             )}    
             </Slider>
         </div>

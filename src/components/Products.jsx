@@ -3,7 +3,7 @@ import { Link, useNavigate, useParams } from "react-router-dom";
 import productsData from './json/products.json';
 import advertisement from "./images/banner-advertisement.webp";
 import mobileadvertisement from "./images/mobile-banner-advertisement.webp";
-import Carousel from './Carousel';
+// import Carousel from './Carousel';
 import {Helmet} from "react-helmet";
 import { BASE_URL } from './Pages/BaseUrl';
 
@@ -13,21 +13,21 @@ const Products = () => {
     const params = useParams();
     const navigate = useNavigate();
     const [useProducts, setUseProducts] = useState([]);
-    const [hoverStates, setHoverStates] = useState(Array(productsData.products.length).fill(false));
+    // const [hoverStates, setHoverStates] = useState(Array(productsData.products.length).fill(false));
 
-    // mouseenter & mouseleave function 
-    const handleMouseEnter = (index) => {
-        // Set the hover state for the specific product to true
-        const newHoverStates = [...hoverStates];
-        newHoverStates[index] = true;
-        setHoverStates(newHoverStates);
-    };
-    const handleMouseLeave = (index) => {
-        // Set the hover state for the specific product to false
-        const newHoverStates = [...hoverStates];
-        newHoverStates[index] = false;
-        setHoverStates(newHoverStates);
-    };
+    // // mouseenter & mouseleave function 
+    // const handleMouseEnter = (index) => {
+    //     // Set the hover state for the specific product to true
+    //     const newHoverStates = [...hoverStates];
+    //     newHoverStates[index] = true;
+    //     setHoverStates(newHoverStates);
+    // };
+    // const handleMouseLeave = (index) => {
+    //     // Set the hover state for the specific product to false
+    //     const newHoverStates = [...hoverStates];
+    //     newHoverStates[index] = false;
+    //     setHoverStates(newHoverStates);
+    // };
 
     useEffect(() => {
         const productsFilteredData = productsData?.products.filter((curElem) => {
@@ -50,7 +50,7 @@ const Products = () => {
                 <meta name="description" content="Shop Elmira Bags, Excellence Craftmanship." />
                 <link rel="canonical" href={`${BASE_URL}/collections/all`} />
             </Helmet>
-            <Carousel />
+            {/* <Carousel /> */}
             <div>    
                 {/* banner image */}
                 <div className="pb-5">
@@ -71,12 +71,22 @@ const Products = () => {
                                 <div className="flex flex-col" key={index}>
                                     <div>
                                         <Link to={products.product_links}>
-                                            <div 
-                                            style={{ backgroundImage: !hoverStates[index] ? `url(/images/${products.product_images[0]})` : `url(/images/${products.product_images[1]})` }}
+                                            {/* <div 
+                                            // style={{ backgroundImage: !hoverStates[index] ? `url(/images/${products.product_images[0]})` : `url(/images/${products.product_images[1]})` }}
+                                            style={{ backgroundImage: `url(/images/${products.product_images[0]})` }}
                                             className="relative h-60 sm:h-72 md:h-80 lg:h-96 w-full bg-cover bg-no-repeat bg-top object-cover"
-                                            onMouseEnter={() => handleMouseEnter(index)}
-                                            onMouseLeave={() => handleMouseLeave(index)}
+                                            // onMouseEnter={() => handleMouseEnter(index)}
+                                            // onMouseLeave={() => handleMouseLeave(index)}
                                             >
+                                                <div className="absolute top-0 left-0 rounded-md p-1 m-2" style={{ background: "#761c1a", color: "#000e40" }}>
+                                                    <span className="text-xs font-semibold px-2 text-white">{products.category?.toUpperCase()}</span>
+                                                </div>
+                                            </div> */}
+                                            <div 
+                                                className="relative h-60 sm:h-72 md:h-80 lg:h-96 w-full"
+                                            >
+                                                <img src={`/images/${products.product_images[0]}`} alt="img" className="w-full h-full bg-cover object-cover" />
+                                            
                                                 <div className="absolute top-0 left-0 rounded-md p-1 m-2" style={{ background: "#761c1a", color: "#000e40" }}>
                                                     <span className="text-xs font-semibold px-2 text-white">{products.category?.toUpperCase()}</span>
                                                 </div>

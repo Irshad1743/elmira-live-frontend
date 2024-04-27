@@ -12,6 +12,7 @@ import squarebanner3 from "./images/square-banner3.webp";
 import squarebanner4 from "./images/square-banner4.webp";
 import Carousel from './Carousel';
 
+
 const Home = () => {
   return (
     <>
@@ -19,7 +20,6 @@ const Home = () => {
       <div>
         <Link to="#"><img src={banner4} alt="banner" className="hidden sm:block" /></Link>
         <Link to="#"><img src={mobilebanner4} alt="banner" className="block sm:hidden" /></Link>
-
 
         <div className="sm:flex pt-12 overflow-hidden">
           <Link to="#" className="sm:flex-1 overflow-hidden"><img src={squarebanner3} alt="banner" className="w-full object-cover hover:scale-125 transition duration-500 cursor-pointer" style={{ height: "50vh" }} /></Link>

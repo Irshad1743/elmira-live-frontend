@@ -3,44 +3,43 @@
         {
             "id": 1,
             "name": "Luggages",
-            "image": "cat_luggages.jpeg",
-            "resp_image": "navbar-img-2.webp",
+            "image": "web-cat-luggage.jpg",
+            "resp_image": "web-cat-luggage.jpg",
             "link": "/collections/luggages"
         },
         {
             "id": 2,
             "name": "Backpacks",
-            "image": "cat_backpacks.jpeg",
-            "resp_image": "navbar-img-3.webp",
+            "image": "web-cat-backpack.jpg",
+            "resp_image": "web-cat-backpack.jpg",
             "link": "/collections/backpacks"
         },
         {
             "id": 3,
             "name": "Briefcase",
-            "image": "cat_briefcase.jpeg",
-            "resp_image": "navbar-img-4.webp",
+            "image": "web-cat-briefcase.jpg",
+            "resp_image": "web-cat-briefcase.jpg",
             "link": "/collections/briefcase"
         },
         {
             "id": 4,
-            "name": "Duffles",
-            "image": "cat_totes.avif",
-            "resp_image": "navbar-img-1.webp",
-            "link": "/collections/duffle-bags"
+            "name": "Gymbags",
+            "image": "web-cat-gymbags.jpg",
+            "resp_image": "web-cat-gymbags.jpg",
+            "link": "/collections/gym-bags"
         },
-        
         {
             "id": 5,
             "name": "Slings",
-            "image": "cat_slings.jpeg",
-            "resp_image": "navbar-img-2.webp",
+            "image": "web-cat-slings.jpg",
+            "resp_image": "web-cat-slings.jpg",
             "link": "/collections/slings"
         },
         {
             "id": 6,
             "name": "Collections",
-            "image": "cat_accessories.avif",
-            "resp_image": "navbar-img-2.webp",
+            "image": "web-cat-collections.jpg",
+            "resp_image": "web-cat-collections.jpg",
             "link": "/collections/all"
         },
         {
