@@ -8,7 +8,7 @@ import mobilebanner4 from "./images/mobile-banner4.webp";
 
 import squarebanner1 from "./images/square-banner1.webp";
 import squarebanner2 from "./images/square-banner2.webp";
-import squarebanner3 from "./images/square-banner3.webp";
+import squarebanner3 from "./images/square-banner3.jpg";
 import squarebanner4 from "./images/square-banner4.webp";
 import Carousel from './Carousel';
 
