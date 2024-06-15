@@ -1,7 +1,7 @@
 import React from 'react'
 import { Link } from "react-router-dom";
 
-import banner2 from "./images/banner2.webp";
+import banner2 from "./images/banner2.jpg";
 import mobilebanner2 from "./images/mobile-banner2.webp";
 import banner4 from "./images/banner4.jpg";
 import mobilebanner4 from "./images/mobile-banner4.webp";
