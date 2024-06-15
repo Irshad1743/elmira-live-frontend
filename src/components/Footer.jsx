@@ -1,6 +1,6 @@
 import React from 'react'
 import { Link } from "react-router-dom";
-import footerimage from "./images/square-banner4.webp";
+import footerimage from "./images/square-banner4.jpg";
 
 import footericon1 from "./images/footer-icon1.svg";
 import footericon2 from "./images/footer-icon2.svg";
