@@ -3,13 +3,13 @@ import { Link } from "react-router-dom";
 
 import banner2 from "./images/banner2.webp";
 import mobilebanner2 from "./images/mobile-banner2.webp";
-import banner4 from "./images/banner4.webp";
+import banner4 from "./images/banner4.jpg";
 import mobilebanner4 from "./images/mobile-banner4.webp";
 
-import squarebanner1 from "./images/square-banner1.webp";
-import squarebanner2 from "./images/square-banner2.webp";
+import squarebanner1 from "./images/square-banner1.jpg";
+import squarebanner2 from "./images/square-banner2.jpg";
 import squarebanner3 from "./images/square-banner3.jpg";
-import squarebanner4 from "./images/square-banner4.webp";
+import squarebanner4 from "./images/square-banner4.jpg";
 import Carousel from './Carousel';
 
 
@@ -19,7 +19,7 @@ const Home = () => {
       <Carousel />
       <div>
         <Link to="#"><img src={banner4} alt="banner" className="hidden sm:block" /></Link>
-        <Link to="#"><img src={mobilebanner4} alt="banner" className="block sm:hidden" /></Link>
+        <Link to="#"><img src={banner4} alt="banner" className="block sm:hidden" /></Link>
 
         <div className="sm:flex pt-12 overflow-hidden">
           <Link to="#" className="sm:flex-1 overflow-hidden"><img src={squarebanner3} alt="banner" className="w-full object-cover hover:scale-125 transition duration-500 cursor-pointer" style={{ height: "50vh" }} /></Link>
