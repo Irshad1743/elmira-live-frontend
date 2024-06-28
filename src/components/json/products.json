@@ -337,17 +337,13 @@
             "color": "black",
             "colorname": "Carbon Black",
             "product_images": [
-                "ELR-SLG-006B (7).jpg",
-                "ELR-SLG-006B (1).jpg",
-                "ELR-SLG-006B (2).jpg",
-                "ELR-SLG-006B (3).jpg",
-                "ELR-SLG-006B (4).jpg",
-                "ELR-SLG-006B (5).jpg",
-                "ELR-SLG-006B (6).jpg",
-                "ELR-SLG-006B (8).jpg",
-                "ELR-SLG-006B (9).jpg",
-                "ELR-SLG-006B (10).jpg",
-                "ELR-SLG-006B (11).jpg"
+                "ELR-SLG-006B(1).jpg",
+                "ELR-SLG-006B(2).jpg",
+                "ELR-SLG-006B(3).jpg",
+                "ELR-SLG-006B(4).jpg",
+                "ELR-SLG-006B(5).jpg",
+                "ELR-SLG-006B(6).jpg",
+                "ELR-SLG-006B(7).jpg"
             ],
             "helmet": {
                 "title": "ELR-SLG-006B",
