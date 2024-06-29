@@ -498,6 +498,138 @@
             }
         },
         {
+            "id": 14,
+            "category_links": "briefcase",
+            "product_links": "/products/ELR-SLG-007A",
+            
+            "name": "ELR-SLG-007A",
+            "category": "Sling Bags",
+            "sellingprice": "699",
+            "price": "1500",
+            "color": "black",
+            "colorname": "Carbon Black",
+            "product_images": [
+                "ELR-SLG-007A(1).jpg",
+                "ELR-SLG-007A(2).jpg",
+                "ELR-SLG-007A(3).jpg",
+                "ELR-SLG-007A(4).jpg",
+                "ELR-SLG-007A(5).jpg",
+                "ELR-SLG-007A(6).jpg",
+                "ELR-SLG-007A(7).jpg"
+            ],
+            "helmet": {
+                "title": "ELR-SLG-007A",
+                "description": "Thoughtfully designed check-in bag with features that solve real travel problems. Made of premium materials that reveals elegant and purposeful details.",
+                "cannonical_href": "/products/ELR-SLG-007A"
+            },
+            "product_details": {
+                "content": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length.",
+                "points": [
+                    "Exterior zippered pocket to secure your valuables",
+                    "Interior pockets hold the essentials",
+                    "Once you find your perfect fit, tuck the excess belt bag strap into the elastic loops"
+                ]
+            },
+            "specifications": {
+                "color": "Grey Sage",
+                "material": "100% Recycled polyester",
+                "outer": "100% Recycled polyester Fabric",
+                "inner": "100% Recycled Polyester Fabric",
+                "dimensions": "19cm x 5.5cm x 13cm (7.5 x 2 x 5)",
+                "care": "Do not wash. Dry clean only.",
+                "country_of_origin": "Designed and Made In India",
+                "manufacturer": "Imported"
+            }
+        },
+        {
+            "id": 16,
+            "category_links": "gym-bags",
+            "product_links": "/products/ELR-SLG-007A",
+            
+            "name": "ELR-SLG-007A",
+            "category": "Sling Bags",
+            "sellingprice": "699",
+            "price": "1500",
+            "color": "black",
+            "colorname": "Carbon Black",
+            "product_images": [
+                "ELR-SLG-007A(1).jpg",
+                "ELR-SLG-007A(2).jpg",
+                "ELR-SLG-007A(3).jpg",
+                "ELR-SLG-007A(4).jpg",
+                "ELR-SLG-007A(5).jpg",
+                "ELR-SLG-007A(6).jpg",
+                "ELR-SLG-007A(7).jpg"
+            ],
+            "helmet": {
+                "title": "ELR-SLG-007A",
+                "description": "Thoughtfully designed check-in bag with features that solve real travel problems. Made of premium materials that reveals elegant and purposeful details.",
+                "cannonical_href": "/products/ELR-SLG-007A"
+            },
+            "product_details": {
+                "content": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length.",
+                "points": [
+                    "Exterior zippered pocket to secure your valuables",
+                    "Interior pockets hold the essentials",
+                    "Once you find your perfect fit, tuck the excess belt bag strap into the elastic loops"
+                ]
+            },
+            "specifications": {
+                "color": "Grey Sage",
+                "material": "100% Recycled polyester",
+                "outer": "100% Recycled polyester Fabric",
+                "inner": "100% Recycled Polyester Fabric",
+                "dimensions": "19cm x 5.5cm x 13cm (7.5 x 2 x 5)",
+                "care": "Do not wash. Dry clean only.",
+                "country_of_origin": "Designed and Made In India",
+                "manufacturer": "Imported"
+            }
+        },
+        {
+            "id": 13,
+            "category_links": "backpacks",
+            "product_links": "/products/ELR-SLG-007A",
+            
+            "name": "ELR-SLG-007A",
+            "category": "Sling Bags",
+            "sellingprice": "699",
+            "price": "1500",
+            "color": "black",
+            "colorname": "Carbon Black",
+            "product_images": [
+                "ELR-SLG-007A(1).jpg",
+                "ELR-SLG-007A(2).jpg",
+                "ELR-SLG-007A(3).jpg",
+                "ELR-SLG-007A(4).jpg",
+                "ELR-SLG-007A(5).jpg",
+                "ELR-SLG-007A(6).jpg",
+                "ELR-SLG-007A(7).jpg"
+            ],
+            "helmet": {
+                "title": "ELR-SLG-007A",
+                "description": "Thoughtfully designed check-in bag with features that solve real travel problems. Made of premium materials that reveals elegant and purposeful details.",
+                "cannonical_href": "/products/ELR-SLG-007A"
+            },
+            "product_details": {
+                "content": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length.",
+                "points": [
+                    "Exterior zippered pocket to secure your valuables",
+                    "Interior pockets hold the essentials",
+                    "Once you find your perfect fit, tuck the excess belt bag strap into the elastic loops"
+                ]
+            },
+            "specifications": {
+                "color": "Grey Sage",
+                "material": "100% Recycled polyester",
+                "outer": "100% Recycled polyester Fabric",
+                "inner": "100% Recycled Polyester Fabric",
+                "dimensions": "19cm x 5.5cm x 13cm (7.5 x 2 x 5)",
+                "care": "Do not wash. Dry clean only.",
+                "country_of_origin": "Designed and Made In India",
+                "manufacturer": "Imported"
+            }
+        },
+        {
             "id": 11,
             "category_links": "slings",
             "product_links": "/products/ELR-SLG-007B",
