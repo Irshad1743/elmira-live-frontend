@@ -425,17 +425,13 @@
             "color": "black",
             "colorname": "Carbon Black",
             "product_images": [
-                "ELR-SLG-007A (7).jpg",
-                "ELR-SLG-007A (1).jpg",
-                "ELR-SLG-007A (2).jpg",
-                "ELR-SLG-007A (3).jpg",
-                "ELR-SLG-007A (4).jpg",
-                "ELR-SLG-007A (5).jpg",
-                "ELR-SLG-007A (6).jpg",
-                "ELR-SLG-007A (8).jpg",
-                "ELR-SLG-007A (9).jpg",
-                "ELR-SLG-007A (10).jpg",
-                "ELR-SLG-007A (11).jpg"
+                "ELR-SLG-007A(1).jpg",
+                "ELR-SLG-007A(2).jpg",
+                "ELR-SLG-007A(3).jpg",
+                "ELR-SLG-007A(4).jpg",
+                "ELR-SLG-007A(5).jpg",
+                "ELR-SLG-007A(6).jpg",
+                "ELR-SLG-007A(7).jpg"
             ],
             "helmet": {
                 "title": "ELR-SLG-007A",
