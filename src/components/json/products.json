@@ -135,6 +135,94 @@
         {
             "id": 4,
             "category_links": "slings",
+            "product_links": "/products/ELR-SLG-002A",
+            
+            "name": "ELR-SLG-002A",
+            "category": "Sling Bags",
+            "sellingprice": "699",
+            "price": "1500",
+            "color": "black",
+            "colorname": "Carbon Black",
+            "product_images": [
+                "ELR-SLG-002A(1).jpg",
+                "ELR-SLG-002A(2).jpg",
+                "ELR-SLG-002A(3).jpg",
+                "ELR-SLG-002A(4).jpg",
+                "ELR-SLG-002A(5).jpg",
+                "ELR-SLG-002A(6).jpg",
+                "ELR-SLG-002A(7).jpg"
+            ],
+            "helmet": {
+                "title": "ELR-SLG-002A",
+                "description": "Thoughtfully designed check-in bag with features that solve real travel problems. Made of premium materials that reveals elegant and purposeful details.",
+                "cannonical_href": "/products/ELR-SLG-002B"
+            },
+            "product_details": {
+                "content": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length.",
+                "points": [
+                    "Exterior zippered pocket to secure your valuables",
+                    "Interior pockets hold the essentials",
+                    "Once you find your perfect fit, tuck the excess belt bag strap into the elastic loops"
+                ]
+            },
+            "specifications": {
+                "color": "Grey Sage",
+                "material": "100% Recycled polyester",
+                "outer": "100% Recycled polyester Fabric",
+                "inner": "100% Recycled Polyester Fabric",
+                "dimensions": "19cm x 5.5cm x 13cm (7.5 x 2 x 5)",
+                "care": "Do not wash. Dry clean only.",
+                "country_of_origin": "Designed and Made In India",
+                "manufacturer": "Imported"
+            }
+        },
+        {
+            "id": 5,
+            "category_links": "slings",
+            "product_links": "/products/ELR-SLG-002B",
+            
+            "name": "ELR-SLG-002B",
+            "category": "Sling Bags",
+            "sellingprice": "699",
+            "price": "1500",
+            "color": "black",
+            "colorname": "Carbon Black",
+            "product_images": [
+                "ELR-SLG-002B(1).jpg",
+                "ELR-SLG-002B(2).jpg",
+                "ELR-SLG-002B(3).jpg",
+                "ELR-SLG-002B(4).jpg",
+                "ELR-SLG-002B(5).jpg",
+                "ELR-SLG-002B(6).jpg",
+                "ELR-SLG-002B(7).jpg"
+            ],
+            "helmet": {
+                "title": "ELR-SLG-002B",
+                "description": "Thoughtfully designed check-in bag with features that solve real travel problems. Made of premium materials that reveals elegant and purposeful details.",
+                "cannonical_href": "/products/ELR-SLG-002B"
+            },
+            "product_details": {
+                "content": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length.",
+                "points": [
+                    "Exterior zippered pocket to secure your valuables",
+                    "Interior pockets hold the essentials",
+                    "Once you find your perfect fit, tuck the excess belt bag strap into the elastic loops"
+                ]
+            },
+            "specifications": {
+                "color": "Grey Sage",
+                "material": "100% Recycled polyester",
+                "outer": "100% Recycled polyester Fabric",
+                "inner": "100% Recycled Polyester Fabric",
+                "dimensions": "19cm x 5.5cm x 13cm (7.5 x 2 x 5)",
+                "care": "Do not wash. Dry clean only.",
+                "country_of_origin": "Designed and Made In India",
+                "manufacturer": "Imported"
+            }
+        },
+        {
+            "id": 6,
+            "category_links": "slings",
             "product_links": "/products/ELR-SLG-003",
             
             "name": "ELR-SLG-003",
@@ -149,8 +237,7 @@
                 "ELR-SLG-003(3).jpg",
                 "ELR-SLG-003(4).jpg",
                 "ELR-SLG-003(5).jpg",
-                "ELR-SLG-003(6).jpg",
-                "ELR-SLG-003(7).jpg"
+                "ELR-SLG-003(6).jpg"
             ],
             "helmet": {
                 "title": "ELR-SLG-003",
@@ -177,11 +264,11 @@
             }
         },
         {
-            "id": 5,
+            "id": 7,
             "category_links": "slings",
             "product_links": "/products/ELR-SLG-004",
             
-            "name": "ELR-SLG-004",
+            "name": "ELR-SLG-006A",
             "category": "Sling Bags",
             "sellingprice": "699",
             "price": "1500",
@@ -221,7 +308,7 @@
             }
         },
         {
-            "id": 6,
+            "id": 8,
             "category_links": "slings",
             "product_links": "/products/ELR-SLG-005",
             
@@ -237,7 +324,8 @@
                 "ELR-SLG-005(3).jpg",
                 "ELR-SLG-005(4).jpg",
                 "ELR-SLG-005(5).jpg",
-                "ELR-SLG-005(6).jpg"
+                "ELR-SLG-005(6).jpg",
+                "ELR-SLG-005(7).jpg"
             ],
             "helmet": {
                 "title": "ELR-SLG-005",
@@ -264,7 +352,7 @@
             }
         },
         {
-            "id": 7,
+            "id": 9,
             "category_links": "slings",
             "product_links": "/products/ELR-SLG-006A",
             
@@ -308,29 +396,29 @@
             }
         },
         {
-            "id": 8,
+            "id": 10,
             "category_links": "slings",
-            "product_links": "/products/ELR-SLG-006B",
+            "product_links": "/products/ELR-SLG-007B",
             
-            "name": "ELR-SLG-006B",
+            "name": "ELR-SLG-007A",
             "category": "Sling Bags",
             "sellingprice": "699",
             "price": "1500",
             "color": "black",
             "colorname": "Carbon Black",
             "product_images": [
-                "ELR-SLG-006B(1).jpg",
-                "ELR-SLG-006B(2).jpg",
-                "ELR-SLG-006B(3).jpg",
-                "ELR-SLG-006B(4).jpg",
-                "ELR-SLG-006B(5).jpg",
-                "ELR-SLG-006B(6).jpg",
-                "ELR-SLG-006B(7).jpg"
+                "ELR-SLG-007A(1).jpg",
+                "ELR-SLG-007A(2).jpg",
+                "ELR-SLG-007A(3).jpg",
+                "ELR-SLG-007A(4).jpg",
+                "ELR-SLG-007A(5).jpg",
+                "ELR-SLG-007A(6).jpg",
+                "ELR-SLG-007A(7).jpg"
             ],
             "helmet": {
-                "title": "ELR-SLG-006B",
+                "title": "ELR-SLG-007A",
                 "description": "Thoughtfully designed check-in bag with features that solve real travel problems. Made of premium materials that reveals elegant and purposeful details.",
-                "cannonical_href": "/products/ELR-SLG-006B"
+                "cannonical_href": "/products/ELR-SLG-007A"
             },
             "product_details": {
                 "content": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length.",
@@ -352,8 +440,8 @@
             }
         },
         {
-            "id": 9,
-            "category_links": "slings",
+            "id": 11,
+            "category_links": "luggages",
             "product_links": "/products/ELR-SLG-006C",
             
             "name": "ELR-SLG-006C",
@@ -396,95 +484,7 @@
             }
         },
         {
-            "id": 10,
-            "category_links": "slings",
-            "product_links": "/products/ELR-SLG-007A",
-            
-            "name": "ELR-SLG-007A",
-            "category": "Sling Bags",
-            "sellingprice": "699",
-            "price": "1500",
-            "color": "black",
-            "colorname": "Carbon Black",
-            "product_images": [
-                "ELR-SLG-007A(1).jpg",
-                "ELR-SLG-007A(2).jpg",
-                "ELR-SLG-007A(3).jpg",
-                "ELR-SLG-007A(4).jpg",
-                "ELR-SLG-007A(5).jpg",
-                "ELR-SLG-007A(6).jpg",
-                "ELR-SLG-007A(7).jpg"
-            ],
-            "helmet": {
-                "title": "ELR-SLG-007A",
-                "description": "Thoughtfully designed check-in bag with features that solve real travel problems. Made of premium materials that reveals elegant and purposeful details.",
-                "cannonical_href": "/products/ELR-SLG-007A"
-            },
-            "product_details": {
-                "content": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length.",
-                "points": [
-                    "Exterior zippered pocket to secure your valuables",
-                    "Interior pockets hold the essentials",
-                    "Once you find your perfect fit, tuck the excess belt bag strap into the elastic loops"
-                ]
-            },
-            "specifications": {
-                "color": "Grey Sage",
-                "material": "100% Recycled polyester",
-                "outer": "100% Recycled polyester Fabric",
-                "inner": "100% Recycled Polyester Fabric",
-                "dimensions": "19cm x 5.5cm x 13cm (7.5 x 2 x 5)",
-                "care": "Do not wash. Dry clean only.",
-                "country_of_origin": "Designed and Made In India",
-                "manufacturer": "Imported"
-            }
-        },
-        {
             "id": 12,
-            "category_links": "luggages",
-            "product_links": "/products/ELR-SLG-007A",
-            
-            "name": "ELR-SLG-007A",
-            "category": "Sling Bags",
-            "sellingprice": "699",
-            "price": "1500",
-            "color": "black",
-            "colorname": "Carbon Black",
-            "product_images": [
-                "ELR-SLG-007A(1).jpg",
-                "ELR-SLG-007A(2).jpg",
-                "ELR-SLG-007A(3).jpg",
-                "ELR-SLG-007A(4).jpg",
-                "ELR-SLG-007A(5).jpg",
-                "ELR-SLG-007A(6).jpg",
-                "ELR-SLG-007A(7).jpg"
-            ],
-            "helmet": {
-                "title": "ELR-SLG-007A",
-                "description": "Thoughtfully designed check-in bag with features that solve real travel problems. Made of premium materials that reveals elegant and purposeful details.",
-                "cannonical_href": "/products/ELR-SLG-007A"
-            },
-            "product_details": {
-                "content": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length.",
-                "points": [
-                    "Exterior zippered pocket to secure your valuables",
-                    "Interior pockets hold the essentials",
-                    "Once you find your perfect fit, tuck the excess belt bag strap into the elastic loops"
-                ]
-            },
-            "specifications": {
-                "color": "Grey Sage",
-                "material": "100% Recycled polyester",
-                "outer": "100% Recycled polyester Fabric",
-                "inner": "100% Recycled Polyester Fabric",
-                "dimensions": "19cm x 5.5cm x 13cm (7.5 x 2 x 5)",
-                "care": "Do not wash. Dry clean only.",
-                "country_of_origin": "Designed and Made In India",
-                "manufacturer": "Imported"
-            }
-        },
-        {
-            "id": 14,
             "category_links": "briefcase",
             "product_links": "/products/ELR-SLG-007A",
             
@@ -530,27 +530,27 @@
         {
             "id": 16,
             "category_links": "gym-bags",
-            "product_links": "/products/ELR-SLG-007A",
+            "product_links": "/products/ELR-SLG-007B",
             
-            "name": "ELR-SLG-007A",
+            "name": "ELR-SLG-007B",
             "category": "Sling Bags",
             "sellingprice": "699",
             "price": "1500",
             "color": "black",
             "colorname": "Carbon Black",
             "product_images": [
-                "ELR-SLG-007A(1).jpg",
-                "ELR-SLG-007A(2).jpg",
-                "ELR-SLG-007A(3).jpg",
-                "ELR-SLG-007A(4).jpg",
-                "ELR-SLG-007A(5).jpg",
-                "ELR-SLG-007A(6).jpg",
-                "ELR-SLG-007A(7).jpg"
+                "ELR-SLG-007B(1).jpg",
+                "ELR-SLG-007B(2).jpg",
+                "ELR-SLG-007B(3).jpg",
+                "ELR-SLG-007B(4).jpg",
+                "ELR-SLG-007B(5).jpg",
+                "ELR-SLG-007B(6).jpg",
+                "ELR-SLG-007B(7).jpg"
             ],
             "helmet": {
-                "title": "ELR-SLG-007A",
+                "title": "ELR-SLG-007B",
                 "description": "Thoughtfully designed check-in bag with features that solve real travel problems. Made of premium materials that reveals elegant and purposeful details.",
-                "cannonical_href": "/products/ELR-SLG-007A"
+                "cannonical_href": "/products/ELR-SLG-007B"
             },
             "product_details": {
                 "content": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length.",
@@ -574,27 +574,26 @@
         {
             "id": 13,
             "category_links": "backpacks",
-            "product_links": "/products/ELR-SLG-007A",
+            "product_links": "/products/ELR-CST-001A",
             
-            "name": "ELR-SLG-007A",
+            "name": "ELR-CST-001A",
             "category": "Sling Bags",
             "sellingprice": "699",
             "price": "1500",
             "color": "black",
             "colorname": "Carbon Black",
             "product_images": [
-                "ELR-SLG-007A(1).jpg",
-                "ELR-SLG-007A(2).jpg",
-                "ELR-SLG-007A(3).jpg",
-                "ELR-SLG-007A(4).jpg",
-                "ELR-SLG-007A(5).jpg",
-                "ELR-SLG-007A(6).jpg",
-                "ELR-SLG-007A(7).jpg"
+                "ELR-CST-001A(1).jpg",
+                "ELR-CST-001A(2).jpg",
+                "ELR-CST-001A(3).jpg",
+                "ELR-CST-001A(4).jpg",
+                "ELR-CST-001A(5).jpg",
+                "ELR-CST-001A(6).jpg"
             ],
             "helmet": {
-                "title": "ELR-SLG-007A",
+                "title": "ELR-CST-001A",
                 "description": "Thoughtfully designed check-in bag with features that solve real travel problems. Made of premium materials that reveals elegant and purposeful details.",
-                "cannonical_href": "/products/ELR-SLG-007A"
+                "cannonical_href": "/products/ELR-CST-001A"
             },
             "product_details": {
                 "content": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length.",
@@ -615,30 +614,29 @@
                 "manufacturer": "Imported"
             }
         },
-        {
-            "id": 11,
-            "category_links": "slings",
-            "product_links": "/products/ELR-SLG-007B",
+          {
+            "id": 14,
+            "category_links": "backpacks",
+            "product_links": "/products/ELR-CST-001B",
             
-            "name": "ELR-SLG-007B",
+            "name": "ELR-CST-001B",
             "category": "Sling Bags",
             "sellingprice": "699",
             "price": "1500",
             "color": "black",
             "colorname": "Carbon Black",
             "product_images": [
-                "ELR-SLG-007B(1).jpg",
-                "ELR-SLG-007B(2).jpg",
-                "ELR-SLG-007B(3).jpg",
-                "ELR-SLG-007B(4).jpg",
-                "ELR-SLG-007B(5).jpg",
-                "ELR-SLG-007B(6).jpg",
-                "ELR-SLG-007B(7).jpg"
+                "ELR-CST-001B(1).jpg",
+                "ELR-CST-001B(2).jpg",
+                "ELR-CST-001B(3).jpg",
+                "ELR-CST-001B(4).jpg",
+                "ELR-CST-001B(5).jpg",
+                "ELR-CST-001B(6).jpg"
             ],
             "helmet": {
-                "title": "ELR-SLG-007B",
+                "title": "ELR-CST-001B",
                 "description": "Thoughtfully designed check-in bag with features that solve real travel problems. Made of premium materials that reveals elegant and purposeful details.",
-                "cannonical_href": "/products/ELR-SLG-007B"
+                "cannonical_href": "/products/ELR-CST-001B"
             },
             "product_details": {
                 "content": "Phone, keys, wallet—keep them close in this versatile belt bag that helps you get out the door and on to your next adventure. This version offers an additional 35cm of strap length.",
