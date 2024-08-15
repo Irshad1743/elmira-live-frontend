@@ -53,10 +53,10 @@ const Products = () => {
             {/* <Carousel /> */}
             <div>    
                 {/* banner image */}
-                <div className="pb-5">
+{/*                 <div className="pb-5">
                     <Link to="#"><img src={advertisement} alt="banner" className="hidden sm:block" /></Link>
                     <Link to="#"><img src={mobileadvertisement} alt="banner" className="block sm:hidden" /></Link>
-                </div>
+                </div> */}
 
                 <h1 className="w-full py-4 text-2xl text-left px-4" style={{ fontWeight: "bold"}}>{params.category.toUpperCase()}</h1>
 
