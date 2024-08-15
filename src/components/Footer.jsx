@@ -64,21 +64,21 @@ const Footer = () => {
                           to="#"
                           className="block text-2xl font-semibold text-gray-300 hover:opacity-75 sm:text-3xl"
                         >
-                          0123456789
+                          +91 9925530110
                         </Link>
                       </p>
 
                       {/* timing of office */}
                       <ul className="mt-8 space-y-1 text-sm text-gray-400">
-                        <li>Monday to Friday: 10am - 5pm</li>
-                        <li>Weekend: 10am - 3pm</li>
+                        <li>Monday to Friday: 10am - 7pm</li>
+                        <li>Weekend: 10am - 1pm</li>
                       </ul>
 
                       {/* social media links */}
                       <ul className="mt-8 flex gap-6">
                         <li>
                           <Link
-                            to="/"
+                            to="https://www.facebook.com/Elmira.Backpacks"
                             rel="noreferrer"
                             target="_blank"
                             className="text-gray-400 transition hover:opacity-75"
@@ -101,7 +101,7 @@ const Footer = () => {
 
                         <li>
                           <Link
-                            to="/"
+                            to="https://www.instagram.com/elmira_bags_/"
                             rel="noreferrer"
                             target="_blank"
                             className="text-gray-400 transition hover:opacity-75"
