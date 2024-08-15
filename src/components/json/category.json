@@ -37,20 +37,34 @@
         },
         {
             "id": 6,
+            "name": "Waistbags",
+            "image": "web-cat-slings.jpg",
+            "resp_image": "web-cat-slings.jpg",
+            "link": "/collections/waistbags"
+        },
+        {
+            "id": 7,
+            "name": "Chestbags",
+            "image": "web-cat-slings.jpg",
+            "resp_image": "web-cat-slings.jpg",
+            "link": "/collections/chestbags"
+        },
+        {
+            "id": 8,
             "name": "Collections",
             "image": "web-cat-collections.jpg",
             "resp_image": "web-cat-collections.jpg",
             "link": "/collections/all"
         },
         {
-            "id": 7,
+            "id": 9,
             "name": "Gift Card",
             "image": "cat_giftcard.avif",
             "resp_image": "navbar-img-2.webp",
             "link": "/gifting"
         },
         {
-            "id": 8,
+            "id": 10,
             "name": "Our Stores",
             "image": "cat_stores.avif",
             "resp_image": "navbar-img-2.webp",
