@@ -61,7 +61,7 @@ const Footer = () => {
                         </span>
 
                         <Link
-                          to="#"
+                          to="tel:992-553-0110"
                           className="block text-2xl font-semibold text-gray-300 hover:opacity-75 sm:text-3xl"
                         >
                           +91 9925530110
@@ -123,7 +123,7 @@ const Footer = () => {
                           </Link>
                         </li>
 
-                        <li>
+{/*                         <li>
                           <Link
                             to="/"
                             rel="noreferrer"
@@ -191,7 +191,7 @@ const Footer = () => {
                               />
                             </svg>
                           </Link>
-                        </li>
+                        </li> */}
                       </ul>
                     </div>
 
