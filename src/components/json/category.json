@@ -38,15 +38,15 @@
         {
             "id": 6,
             "name": "Waistbags",
-            "image": "web-cat-slings.jpg",
-            "resp_image": "web-cat-slings.jpg",
+            "image": "waist-bag-category.jpg",
+            "resp_image": "waist-bag-category.jpg",
             "link": "/collections/waistbags"
         },
         {
             "id": 7,
             "name": "Chestbags",
-            "image": "web-cat-slings.jpg",
-            "resp_image": "web-cat-slings.jpg",
+            "image": "ELR-CST-001A(1).jpg",
+            "resp_image": "ELR-CST-001A(1).jpg",
             "link": "/collections/chestbags"
         },
         {
