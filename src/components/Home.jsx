@@ -3,7 +3,7 @@ import { Link } from "react-router-dom";
 
 import banner2 from "./images/banner2.jpg";
 import mobilebanner2 from "./images/mobile-banner2.webp";
-import banner4 from "./images/banner4.jpg";
+import banner4 from "./images/BANNER-TEST-001.jpg";
 import mobilebanner4 from "./images/mobile-banner4.webp";
 
 import squarebanner1 from "./images/square-banner1.jpg";
