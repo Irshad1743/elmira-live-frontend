@@ -37,7 +37,7 @@ const Header = () => {
 
           {/* navbar links */}
           <div className="items-center justify-around hidden md:block">
-            {categoriesData.categories.filter((curElem, index) => index < 6 ).map((category, index) =>
+            {categoriesData.categories.filter((curElem, index) => index < 8 ).map((category, index) =>
               <Link to={category.link} className="text-sm font-semibold text-slate-800 mx-2" key={index}>{category.name.toUpperCase()}</Link>
             )}
           </div>
